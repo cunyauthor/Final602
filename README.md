@@ -13,3 +13,14 @@ https://anaconda.org/plotly/repo?type=conda&label=main
   API_PW="XXXXXX"
   
 #4 Run the Final602.sql (for Db setup and data load)
+
+#6. Select 
+  
+    State==>Alabama
+    Occupations ==> 'Accountants and Auditors'   *Don't forget to press the "+" button to add
+    Occupations ==> 'Budget Analysts'   *Don't forget to press the "+" button to add
+    From Year: 2005
+    To Year: 2015
+    Report Type ==> Select One by One; Reports will be generated from Plotly.
+    
+    
