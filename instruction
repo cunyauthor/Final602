@@ -2,7 +2,7 @@
 https://kivy.org/docs/installation/installation-osx.html
 #2. Install plotly
 https://anaconda.org/plotly/repo?type=conda&label=main
-Change the value of 
+Change the values below in Python file (XXXXXX can be applied from ploty.com 
   MyPath
   API_ID="XXXXXXX"
   API_PW="XXXXXXX"
