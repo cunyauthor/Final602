@@ -1,0 +1,9 @@
+#1. Install Kivy-1.9.1
+https://kivy.org/docs/installation/installation-osx.html
+#2. Install plotly
+https://anaconda.org/plotly/repo?type=conda&label=main
+Change the value of 
+  MyPath
+  API_ID="XXXXXXX"
+  API_PW="XXXXXXX"
+
