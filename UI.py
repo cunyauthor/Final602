@@ -13,8 +13,8 @@ layout = FloatLayout()
 ##################################################################
 # Change your info here
 MyPath="/Users/fionaho/Desktop/Final Project 602/plotly/"
-API_ID="CUNY12345"
-API_PW="osQfCMAuui1UBHydbudH"
+API_ID=""
+API_PW=""
 ##################################################################
 
 DiceCount=0
